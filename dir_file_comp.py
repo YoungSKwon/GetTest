@@ -1,4 +1,4 @@
-# This is a sample Python script.  by kwon
+# This is a sample Python script.  by kwon by modified in office
 
 from tkinter import *
 from tkinter import filedialog
